@@ -15,6 +15,7 @@
 .table-view .column-header-background .filler {
     -fx-cell-size : 20;
     -fx-background-color:   #2D75E8;
+    -fx-border-color: derive(  #2D75E8,80%);
 }
 .table-view .column-header .label{
 
